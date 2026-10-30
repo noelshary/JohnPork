@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "johnpork",
+  "version": "${version}",
+  "name": "JohnPork Companion (Prototype)",
+  "description": "Prototype menu for a future JohnPork companion.",
+  "authors": ["OpenAI"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["de.johnpork.companion.JohnPorkClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

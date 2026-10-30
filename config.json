@@ -1,0 +1,6 @@
+{
+  "vosk_model_path": "models/vosk-model-small-de-0.15",
+  "piper_executable": "piper",
+  "piper_model_path": "models/de_DE-thorsten-medium.onnx",
+  "sample_rate": 16000
+}
